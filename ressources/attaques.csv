@@ -1,0 +1,18 @@
+1,1,Fonction pour x répétition ?,for
+1,2,Comment déclarer une variable entière en Java ?,int
+1,3,Que retourne la fonction "charAt()" ?,char
+1,4,math,.
+1,5,Convertissez le nombre décimal 42 en binaire.,101010
+1,6,Que vaut 01100011 signed-8 en décimal ?,99
+2,1,Fonction pour nombre indéfini répétition ?,while do-while dowhile
+2,2,[V ou F]La déclaration suivante est-elle valide ? : static CSVFile chronoAttackSave = new CSVFile(path);,v vrai
+2,3,Que retourne "==" ou ".equals()" ?, boolean
+2,4,math,.
+2,5,Effectuez l'opération logique "NOT" sur le nombre binaire "101010".,010101
+2,6,0xe5 OR 0xf6,0xf7
+3,1,[V ou F]Déclaration tableau valide ? String[] tab = new[5],f faux
+3,2,Comment déclarer une variable constante en Java ?,final
+3,3,Où peut-on utiliser "break" en Java ?, switch for while do-while dowhile label
+3,4,math,.
+3,5,Écrivez une expression binaire signée pour représenter le nombre décimal -27.,11100101
+3,6,0xc2 0xa1 UTF-8 en Unicode (U+XXXX),u+00a1

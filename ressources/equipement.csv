@@ -1,0 +1,27 @@
+0,0,VIDE,0,0
+1,1,Épée de cuivre,200,5
+2,1,Mini-requin,400,9
+3,1,Lame Terra,700,12
+4,1,S.D.M.G,1200,16
+5,1,Zenith,2000,21
+6,2,Armure en bois,200,5
+7,2,Armure en or,500,8
+8,2,Armure en fusion,1000,11
+9,2,Armure de Scarabée,1500,17
+10,2,Armure Solaire,2300,23
+11,3,Anneau de régénération,200,5
+12,3,Cristal de Santé,600,10
+13,3,Talisman de mythes,1300,15
+14,3,Fruit de vie,2100,20
+15,3,Pierre brillante,3000,30
+16,4,Brassard de puissance étoilée,200,5
+17,4,Menottes magiques,600,10
+18,4,Fleur à aimant,1300,15
+19,4,Manteau de mana,2100,20
+20,4,Anneau de régénération de mana,3000,30
+21,5,Potion faible pv,100,10
+22,5,Potion moyenne pv,200,20
+23,5,Potion grande pv,300,30
+24,5,Potion faible mana,300,10
+25,5,Potion moyenne mana,400,20
+26,5,Potion grande mana,500,30
